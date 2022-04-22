@@ -1,0 +1,297 @@
+body main .topnav {
+  color: black;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  background-color: white; }
+  body main .topnav .navbar-brand {
+    padding-top: 10px;
+    left: 40px;
+    padding-right: 70px;
+    font-size: 30px;
+    font-weight: 40; }
+  body main .topnav a {
+    font-size: 1vw;
+    padding-right: 40px;
+    color: black;
+    text-decoration: none; }
+  body main .topnav .btn {
+    border-radius: 23px; }
+  body main .topnav .btn-primary {
+    margin-left: 20px;
+    padding: 5px 30px;
+    background-color: #6F2CFF;
+    border-color: #6F2CFF; }
+  body main .topnav .btn-light {
+    background-color: white;
+    border-color: white; }
+body main .section1 {
+  background-color: #DAC5FE; }
+  body main .section1 .container .row {
+    padding: 20px 100px; }
+    body main .section1 .container .row .col_1 {
+      margin: 0 auto; }
+      body main .section1 .container .row .col_1 .content-container .c-1-h12 {
+        color: #6F2DFF; }
+      body main .section1 .container .row .col_1 .content-container p {
+        margin-top: 25px; }
+      body main .section1 .container .row .col_1 .content-container .btn-group {
+        border: 2px solid #6F2DFF;
+        border-radius: 23px;
+        background-color: white;
+        width: 100%;
+        display: flex;
+        flex-direction: row; }
+        body main .section1 .container .row .col_1 .content-container .btn-group .but1 {
+          width: 60%;
+          height: 100%; }
+          body main .section1 .container .row .col_1 .content-container .btn-group .but1 .button1 {
+            border: none;
+            width: 100%;
+            height: 100%; }
+        body main .section1 .container .row .col_1 .content-container .btn-group .but2 {
+          border-radius: 0 23px 23px 0;
+          background-color: #6F2DFF; }
+    body main .section1 .container .row .col_2 {
+      margin: 0 auto; }
+      body main .section1 .container .row .col_2 img {
+        width: 100%; }
+body main .section2 .container .row .half1 .content-container {
+  margin: 200px auto;
+  padding-left: 80px; }
+  body main .section2 .container .row .half1 .content-container .btn {
+    margin-top: 40px;
+    height: 35px;
+    width: 230px;
+    background-color: #6F2DFF;
+    border: #6F2DFF;
+    border-radius: 23px; }
+  body main .section2 .container .row .half1 .content-container .hfirst {
+    margin-top: 50px; }
+  body main .section2 .container .row .half1 .content-container .hsecond a {
+    text-decoration: black;
+    color: black; }
+body main .section2 .container .row .abouthalf2 {
+  margin-left: 30px;
+  border-left: 1px solid rgba(128, 128, 128, 0.27);
+  margin-top: 70px; }
+  body main .section2 .container .row .abouthalf2 h2 {
+    margin-top: 40px; }
+body main .section3 .container {
+  margin-top: 150px;
+  text-align: center; }
+  body main .section3 .container .row .col-3 {
+    margin-left: 60px; }
+    body main .section3 .container .row .col-3 img {
+      width: 50px;
+      height: 50px; }
+    body main .section3 .container .row .col-3 h5 {
+      margin-top: 40px; }
+    body main .section3 .container .row .col-3 p {
+      margin-top: 20px; }
+body main .section4 {
+  margin-top: 60px; }
+  body main .section4 .container {
+    margin: 100px auto;
+    text-align: center; }
+    body main .section4 .container h3 {
+      padding-top: 70px; }
+    body main .section4 .container p {
+      margin-top: 20px; }
+    body main .section4 .container img {
+      margin-top: 60px; }
+    body main .section4 .container .bytu {
+      margin-top: 70px;
+      padding-bottom: 70px; }
+      body main .section4 .container .bytu .btn-primary {
+        background-color: #6F2DFF;
+        border: #6F2DFF; }
+      body main .section4 .container .bytu .btn-light {
+        background-color: white;
+        color: #6F2DFF; }
+      body main .section4 .container .bytu .btn {
+        width: 190px;
+        height: 40px;
+        border-radius: 23px; }
+body main .section5 .container h3 {
+  text-align: center;
+  margin-top: 30px;
+  padding-bottom: 50px; }
+body main .section5 .container .row {
+  margin-top: 40px; }
+  body main .section5 .container .row .col-3 {
+    text-align: center;
+    margin: 0 auto; }
+    body main .section5 .container .row .col-3 h5 {
+      margin-top: 20px; }
+    body main .section5 .container .row .col-3 p {
+      margin-top: 30px; }
+    body main .section5 .container .row .col-3 img {
+      width: 60px;
+      height: 60px; }
+body main .section6 .container {
+  margin-top: 90px;
+  padding-bottom: 80px; }
+  body main .section6 .container h3 {
+    padding-top: 50px;
+    margin-top: 60px;
+    text-align: center;
+    margin-bottom: 70px; }
+  body main .section6 .container .carousel .carousel-inner a span {
+    font-size: 35px;
+    color: #6F2DFF; }
+  body main .section6 .container .carousel .carousel-inner .carousel-item .card {
+    margin: 0 auto;
+    max-width: 350px; }
+    body main .section6 .container .carousel .carousel-inner .carousel-item .card img {
+      width: 100%;
+      max-height: 300px; }
+body main .section7 {
+  background-color: #ffffff; }
+  body main .section7 .container h2 {
+    text-align: center; }
+  body main .section7 .container p {
+    text-align: center; }
+  body main .section7 .container .row .col-12 .row .card {
+    background-color: #04021c;
+    border-radius: 10px;
+    color: white; }
+    body main .section7 .container .row .col-12 .row .card .card-body h5 img {
+      max-width: 50px;
+      height: auto; }
+    body main .section7 .container .row .col-12 .row .card .card-body h5 strong {
+      color: white; }
+    body main .section7 .container .row .col-12 .row .card .card-body .card-richtext {
+      margin-top: 30px;
+      text-align: inherit; }
+    body main .section7 .container .row .col-12 .row .card .card-body .mt-4 {
+      display: none; }
+      body main .section7 .container .row .col-12 .row .card .card-body .mt-4 span strong a {
+        text-decoration-color: white; }
+  body main .section7 .container .row .col-12 .card:hover {
+    background-color: #031e8c; }
+    body main .section7 .container .row .col-12 .card:hover .card-body .mt-4 {
+      position: inherit;
+      color: white !important;
+      display: block;
+      text-decoration: white; }
+      body main .section7 .container .row .col-12 .card:hover .card-body .mt-4 span strong a {
+        color: white;
+        text-decoration-color: white; }
+body main .section8 .container .row .col-6 .btn {
+  border: #6F2CFF;
+  background-color: #6F2CFF;
+  border-radius: 23px;
+  width: 40%;
+  height: 40px; }
+body main .section8 .container .row .col-6 img {
+  text-align: center; }
+body main .section9 {
+  background-color: #04021c; }
+  body main .section9 .container {
+    padding-bottom: 50px; }
+    body main .section9 .container h2 {
+      color: white;
+      text-align: center; }
+    body main .section9 .container .btn-group {
+      margin: 0 auto;
+      border: 2px solid #6F2DFF;
+      border-radius: 23px;
+      background-color: white;
+      width: 450px;
+      height: 40px;
+      display: flex;
+      flex-direction: row; }
+      body main .section9 .container .btn-group .but1 {
+        width: 60%;
+        height: 100%; }
+        body main .section9 .container .btn-group .but1 .form-group .form-control {
+          border: none;
+          border-radius: 23px 0 0 23px;
+          padding: 0 !important;
+          margin: 0 !important;
+          width: 100%;
+          height: 100%; }
+      body main .section9 .container .btn-group .but2 {
+        border-radius: 0 23px 23px 0;
+        background-color: #6F2DFF; }
+body main .section10 .container .row {
+  width: 400px;
+  margin: 0 auto; }
+  body main .section10 .container .row img {
+    margin-left: 30px;
+    max-width: 40px;
+    height: auto; }
+  body main .section10 .container .row img:hover {
+    background-color: #6F2DFF;
+    border-radius: 50%;
+    padding: 1.5%; }
+
+@media only screen and (max-width: 1200px) {
+  body main .topnav .a1 {
+    display: none; } }
+@media only screen and (max-width: 1150px) {
+  body main .topnav .a2 {
+    display: none; } }
+@media only screen and (max-width: 1100px) {
+  body main .topnav .a3 {
+    display: none; } }
+@media only screen and (max-width: 950px) {
+  body main .topnav .a4 {
+    display: none; } }
+@media only screen and (max-width: 800px) {
+  body main .topnav .a5 {
+    display: none; } }
+@media only screen and (max-width: 600px) {
+  body main .topnav .a6 {
+    display: none; } }
+@media only screen and (max-width: 400px) {
+  body {
+    margin: 0 auto; }
+    body main {
+      margin: 0 auto; }
+      body main .topnav .a7 {
+        display: none; }
+      body main .topnav .btn-primary {
+        display: none; }
+      body main .section1 {
+        font-size: 3vw; }
+        body main .section1 .container .row .col_1 .content-container h1 {
+          font-size: 6vw; }
+        body main .section1 .container .row .col_1 .content-container .h6 {
+          font-size: 3vw; }
+        body main .section1 .container .row .col_1 .content-container .btn-group {
+          width: 200px;
+          height: 37px;
+          font-size: 4px; }
+          body main .section1 .container .row .col_1 .content-container .btn-group .but2 text {
+            font-size: 10px; }
+      body main .section4 .container img {
+        width: 100%; }
+      body main .section9 .container .btn-group {
+        width: 50px;
+        height: 10px; }
+      body main .section10 .container .row {
+        width: 400px;
+        margin: 0 auto; }
+        body main .section10 .container .row img {
+          margin-left: 15px;
+          max-width: 30px;
+          height: auto; }
+        body main .section10 .container .row img:hover {
+          background-color: #6F2DFF;
+          border-radius: 50%;
+          padding: 1.5%; }
+      body main .section3 .container {
+        font-size: 3vw; }
+      body main .section3 .row .c3 {
+        margin: 0 auto; }
+      body main .section5 .container .row .col-3 img {
+        max-width: 20px;
+        max-height: 10px; }
+      body main .section5 .container .row .col-3 h5 {
+        font-size: 3vw; }
+      body main .section5 .container .row .col-3 p {
+        font-size: 3vw; } }
+
+/*# sourceMappingURL=style.css.map */
